@@ -1,6 +1,6 @@
 ## Hi there, I'm Matthew 👋
 
-<p>Highly motivated front-end developer with a passion for creating visually stunning and intuitive user interfaces. Proficient in HTML, CSS, JavaScript, React, Next.js, and Tailwind. Proven ability to deliver high-quality, scalable solutions that drive business growth. Strong collaborator and communicator, dedicated to staying up-to-date with the latest industry trends and technologies. Results-oriented, with a track record of delivering on-time and within budget. Emphasizing on Agile methodologies and Test-Driven Development (TDD) to ensure the end-product meets the client's needs.</p>
+<p>Highly motivated front-end developer with a passion for creating visually stunning and intuitive user interfaces. Proven ability to deliver high-quality, scalable solutions that drive business growth. Strong collaborator and communicator, dedicated to staying up-to-date with the latest industry trends and technologies. Results-oriented, with a track record of delivering on-time and within budget. Emphasizing on Agile methodologies and Test-Driven Development (TDD) to ensure the end-product meets the client's needs.</p>
 
 <hr>
 
